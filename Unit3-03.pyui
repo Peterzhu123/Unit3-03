@@ -1,0 +1,103 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{46, 65}, {237, 47}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label",
+          "frame" : "{{331, 301}, {150, 32}}",
+          "uuid" : "ACF7ED4B-B612-4759-BDCA-66E63086D09B",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Get one of your choice",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{91, 209}, {131, 60}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "rock_touch_up_inside",
+          "frame" : "{{366, 301}, {80, 32}}",
+          "title" : "Rock",
+          "uuid" : "6619F533-70D9-4084-8EED-B11E229A777C",
+          "class" : "Button",
+          "name" : "Rock_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{285, 209}, {131, 60}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "paper_touch_up_inside",
+          "frame" : "{{366, 301}, {80, 32}}",
+          "title" : "Paper",
+          "uuid" : "8F25492C-F656-416D-8BAF-74415D2EB81D",
+          "class" : "Button",
+          "name" : "Paper_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{530, 209}, {140, 60}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "scissors_touch_up_inside",
+          "frame" : "{{366, 301}, {80, 32}}",
+          "title" : "Scissors",
+          "uuid" : "804CBBCA-7A13-4F31-9E12-8BCF4EB8257C",
+          "class" : "Button",
+          "name" : "Scissor_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{46, 418}, {370, 53}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "output_label",
+          "frame" : "{{331, 301}, {150, 32}}",
+          "uuid" : "EE2ADA18-C305-4184-98F9-6DD1D3618056",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Result",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {811, 634}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
